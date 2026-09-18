@@ -1,0 +1,122 @@
+[
+  {
+    "id": "hemograma",
+    "nombre": "Hemograma Completo",
+    "area": "Hematología",
+    "descripcion": "Evaluación de glóbulos rojos, blancos y plaquetas. Detecta anemia e infecciones.",
+    "muestra": "Sangre venosa",
+    "tiempo": "24 horas",
+    "precio": 35,
+    "categoria": "basico"
+  },
+  {
+    "id": "glucosa",
+    "nombre": "Glucosa en Ayunas",
+    "area": "Bioquímica sanguínea",
+    "descripcion": "Mide el nivel de azúcar en sangre. Control de diabetes.",
+    "muestra": "Suero",
+    "tiempo": "24 horas",
+    "precio": 20,
+    "categoria": "basico"
+  },
+  {
+    "id": "colesterol-total",
+    "nombre": "Colesterol Total",
+    "area": "Perfil lipídico",
+    "descripcion": "Evaluación de riesgo cardiovascular.",
+    "muestra": "Suero",
+    "tiempo": "24 horas",
+    "precio": 25,
+    "categoria": "basico"
+  },
+  {
+    "id": "hdl-ldl",
+    "nombre": "Colesterol HDL / LDL",
+    "area": "Perfil lipídico",
+    "descripcion": "Colesterol bueno y malo. Perfil completo.",
+    "muestra": "Suero",
+    "tiempo": "24 horas",
+    "precio": 40,
+    "categoria": "intermedio"
+  },
+  {
+    "id": "trigliceridos",
+    "nombre": "Triglicéridos",
+    "area": "Perfil lipídico",
+    "descripcion": "Grasas en sangre relacionadas con dieta.",
+    "muestra": "Suero",
+    "tiempo": "24 horas",
+    "precio": 25,
+    "categoria": "basico"
+  },
+  {
+    "id": "urea-creatinina",
+    "nombre": "Urea y Creatinina",
+    "area": "Bioquímica sanguínea",
+    "descripcion": "Función renal. Evaluación de riñones.",
+    "muestra": "Suero",
+    "tiempo": "24 horas",
+    "precio": 30,
+    "categoria": "basico"
+  },
+  {
+    "id": "examen-orina",
+    "nombre": "Examen Completo de Orina",
+    "area": "Uroanálisis",
+    "descripcion": "Detecta infecciones urinarias y problemas renales.",
+    "muestra": "Orina",
+    "tiempo": "24 horas",
+    "precio": 20,
+    "categoria": "basico"
+  },
+  {
+    "id": "tsh-t4",
+    "nombre": "Perfil Tiroideo TSH + T4 Libre",
+    "area": "Hormonal",
+    "descripcion": "Evaluación de la función tiroidea.",
+    "muestra": "Suero",
+    "tiempo": "48 horas",
+    "precio": 80,
+    "categoria": "intermedio"
+  },
+  {
+    "id": "hepatitis-b",
+    "nombre": "Antígeno Hepatitis B",
+    "area": "Inmunología",
+    "descripcion": "Detección de infección por hepatitis B.",
+    "muestra": "Suero",
+    "tiempo": "48 horas",
+    "precio": 60,
+    "categoria": "intermedio"
+  },
+  {
+    "id": "pcr",
+    "nombre": "Proteína C Reactiva (PCR)",
+    "area": "Inmunología",
+    "descripcion": "Marcador de inflamación e infección.",
+    "muestra": "Suero",
+    "tiempo": "24 horas",
+    "precio": 35,
+    "categoria": "basico"
+  },
+  {
+    "id": "grupo-sanguineo",
+    "nombre": "Grupo Sanguíneo y Factor Rh",
+    "area": "Hematología",
+    "descripcion": "Tipificación sanguínea para emergencias.",
+    "muestra": "Sangre venosa",
+    "tiempo": "24 horas",
+    "precio": 25,
+    "categoria": "basico"
+  },
+  {
+    "id": "perfil-hepatico",
+    "nombre": "Perfil Hepático Completo",
+    "area": "Bioquímica sanguínea",
+    "descripcion": "TGO, TGP, bilirrubina, fosfatasa. Función del hígado.",
+    "muestra": "Suero",
+    "tiempo": "24 horas",
+    "precio": 70,
+    "categoria": "intermedio"
+  }
+]
