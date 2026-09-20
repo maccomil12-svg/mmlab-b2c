@@ -1,0 +1,30 @@
+{
+  "negocio": {
+    "nombre": "MMLAB",
+    "subtitulo": "Centro de toma de muestra y Gestión Diagnóstica",
+    "whatsapp": "51946309246",
+    "whatsapp_visible": "946 309 246",
+    "email": "mmlab1627@gmail.com",
+    "ciudad": "Arequipa",
+    "horario": "Lun - Sáb 7am - 7pm"
+  },
+  "mensajes": {
+    "general": "Hola MMLAB, quisiera información y agendar una toma de muestras a domicilio.",
+    "cotizacion": "Hola MMLAB, quiero cotizar el análisis: {EXAMEN}."
+  },
+  "estadisticas": {
+    "familias": "+240 familias atendidas en JLByR",
+    "tiempo": "15 minutos promedio de toma en casa"
+  },
+  "catalogo": {
+    "areas": [
+      "Todos",
+      "Hematología",
+      "Bioquímica sanguínea",
+      "Perfil lipídico",
+      "Uroanálisis",
+      "Bioquímica hepática",
+      "Hormonal"
+    ]
+  }
+}
