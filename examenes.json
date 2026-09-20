@@ -1,0 +1,14 @@
+[
+  {"id":"hemograma-completo","nombre":"Hemograma Completo","area":"Hematología","descripcion":"Evaluación de glóbulos rojos, blancos y plaquetas. Detecta anemia e infecciones.","muestra":"Sangre venosa","tiempo":"24 horas","precio":35,"categoria":"basico"},
+  {"id":"glucosa-en-ayunas","nombre":"Glucosa en Ayunas","area":"Bioquímica sanguínea","descripcion":"Mide el nivel de azúcar en sangre. Control de diabetes.","muestra":"Suero","tiempo":"24 horas","precio":20,"categoria":"basico"},
+  {"id":"colesterol-total","nombre":"Colesterol Total","area":"Perfil lipídico","descripcion":"Evaluación de riesgo cardiovascular.","muestra":"Suero","tiempo":"24 horas","precio":25,"categoria":"basico"},
+  {"id":"hdl-ldl","nombre":"Colesterol HDL / LDL","area":"Perfil lipídico","descripcion":"Evaluación de colesterol HDL y LDL para valorar el perfil cardiovascular.","muestra":"Suero","tiempo":"24 horas","precio":40,"categoria":"intermedio"},
+  {"id":"trigliceridos","nombre":"Triglicéridos","area":"Perfil lipídico","descripcion":"Mide los triglicéridos en sangre para la evaluación del perfil lipídico.","muestra":"Suero","tiempo":"24 horas","precio":25,"categoria":"basico"},
+  {"id":"urea-creatinina","nombre":"Urea y Creatinina","area":"Bioquímica sanguínea","descripcion":"Evaluación de parámetros relacionados con la función renal.","muestra":"Suero","tiempo":"24 horas","precio":30,"categoria":"basico"},
+  {"id":"orina-completa","nombre":"Examen Completo de Orina","area":"Uroanálisis","descripcion":"Evaluación física, química y microscópica de la orina.","muestra":"Orina","tiempo":"24 horas","precio":20,"categoria":"basico"},
+  {"id":"perfil-tiroideo","nombre":"Perfil Tiroideo TSH + T4 Libre","area":"Hormonal","descripcion":"Evaluación de hormonas relacionadas con la función tiroidea.","muestra":"Suero","tiempo":"24 horas","precio":80,"categoria":"intermedio"},
+  {"id":"hepatitis-b","nombre":"Antígeno Hepatitis B","area":"Inmunología","descripcion":"Prueba para la detección del antígeno de superficie de hepatitis B.","muestra":"Suero","tiempo":"24 horas","precio":60,"categoria":"intermedio"},
+  {"id":"pcr","nombre":"Proteína C Reactiva (PCR)","area":"Inmunología","descripcion":"Marcador utilizado como apoyo en la evaluación de procesos inflamatorios.","muestra":"Suero","tiempo":"24 horas","precio":35,"categoria":"basico"},
+  {"id":"grupo-rh","nombre":"Grupo Sanguíneo y Factor Rh","area":"Hematología","descripcion":"Determina el grupo sanguíneo ABO y el factor Rh.","muestra":"Sangre venosa","tiempo":"24 horas","precio":25,"categoria":"basico"},
+  {"id":"perfil-hepatico","nombre":"Perfil Hepático Completo","area":"Bioquímica hepática","descripcion":"Conjunto de pruebas para la evaluación bioquímica de la función hepática.","muestra":"Suero","tiempo":"24 horas","precio":70,"categoria":"intermedio"}
+]
